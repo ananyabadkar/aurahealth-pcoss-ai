@@ -1,5 +1,5 @@
 # 🧬 AuraHealth AI
-### Multi-Modal PCOS Risk Intelligence System
+### AuraHealth :A Multi-Modal Explainable AI Framework for the Differential Diagnosis of PCOD vs. PCOS 
 
 ## 🚀 Problem Statement
 PCOS diagnosis is often delayed due to fragmented evaluation of clinical and ultrasound data. 
