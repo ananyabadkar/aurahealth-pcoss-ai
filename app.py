@@ -10,7 +10,7 @@ import time
 # --------------------------------------------------
 
 st.set_page_config(
-    page_title="AuraHealth: PCOS Diagnostic AI",
+    page_title="AuraHealth: A Multi-Modal Explainable AI Framework for the Differential Diagnosis of PCOD vs. PCOS ",
     layout="wide",
     page_icon="🧬"
 )
@@ -39,7 +39,7 @@ st.markdown("""
 # --------------------------------------------------
 
 st.title("🧬 AuraHealth AI")
-st.caption("Multi-Modal PCOS Risk Intelligence | Explainable Clinical Decision Support")
+st.caption("A Multi-Modal Explainable AI Framework for the Differential Diagnosis of PCOD vs. PCOS  | Explainable Clinical Decision Support")
 
 st.warning("⚠️ Research Prototype — Not for real clinical diagnosis.")
 
@@ -204,4 +204,5 @@ st.markdown("""
 """)
 
 st.markdown("---")
+
 st.write("© 2026 AuraHealth AI | Hackathon Prototype")
